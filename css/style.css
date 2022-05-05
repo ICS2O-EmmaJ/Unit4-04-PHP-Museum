@@ -1,0 +1,37 @@
+/* Created by: Emma Janani
+* Created on: May 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit4-04-PHP-Museum
+*/
+
+body {
+	background-color: #9dab7b;
+}
+
+h1 {
+	background-color: #758256;
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #f4dc86;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+iframe {
+  margin-top: -500px;
+  
+}
+
+#display-results{
+  background-color: #cda842;
+	font-size: 20px;
+}
